@@ -13,7 +13,7 @@
 ### Enhanced Button in Action
 > **📷 Screenshot Placeholder**: Add a screenshot of your enhanced button
 
-![Enhanced Button Preview](./docs/images/button-preview.png)
+![Enhanced Button Preview](https://github.com/rsusano/shopify-enhanced-add-to-cart-button/blob/edf2b45888a63edb84c8b81d109ae7e80f47f0e7/docs/ATC-button.png)
 *Capture: Button showing sale price, crossed-out compare price, and guarantee text*
 
 ---
