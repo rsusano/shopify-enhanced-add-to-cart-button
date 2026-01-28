@@ -21,7 +21,7 @@
 ### Before vs After Comparison
 > **📷 Screenshot Placeholder**: Side-by-side comparison
 
-![Before After](./docs/images/before-after.png)
+![Before After](https://github.com/rsusano/shopify-enhanced-add-to-cart-button/blob/b0745f3f1d61ea0de57498d26018f76417ebab43/docs/before-after-ATC.png)
 *Left: Default button | Right: Enhanced button with dynamic pricing*
 
 ---
