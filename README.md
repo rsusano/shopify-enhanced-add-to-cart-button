@@ -30,7 +30,6 @@
 > **📷 Screenshot Placeholder**: Mobile view
 
 ![Mobile View](https://github.com/rsusano/shopify-enhanced-add-to-cart-button/blob/3514925bfec7f0d8203aa3e395c5ad6ba858fea9/docs/mobile-ATC.png)
-
 *Perfectly optimized for mobile devices*
 
 ---
